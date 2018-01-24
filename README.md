@@ -1,4 +1,4 @@
-title: "Knapsack solution for Resource Allocation"
+# Knapsack solution for Resource Allocation
 
 Ever had a resource allocation issue where you have a number in mind based on your limited resources and constraints but somehow, all the trial-and-error and all the ratio allocation you have done fails to meet that number? I had that issue on my first day at my seconded agency. My boss tasked me to find an optimum way to allocate notebooks to different divisions in the agency while meeting the budget and number she had in mind. Somehow, all the rations and trial-and-error approaches failed to meet her requirements.
 
